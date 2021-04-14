@@ -24,4 +24,13 @@ switch (color) {
     default: console.log('go away');
 }
 
+var name = "";
+switch (name) {
+    case "yellow": console.log('first');
+        break;
+    case "blue": console.log('book');
+        break;
+    default: console.log('go away');
+}
+
 //push -- pushing codes 
