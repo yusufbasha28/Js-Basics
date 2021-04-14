@@ -17,9 +17,11 @@ else {
 
 var color = "";
 switch (color) {
-    case "red": console.log('first');
+    case "yellow": console.log('first');
         break;
     case "blue": console.log('book');
         break;
     default: console.log('go away');
 }
+
+//push -- pushing codes 
